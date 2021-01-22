@@ -1,0 +1,8 @@
+C:\Users\joris\source\repos\IChoosrAPI.Data\bin\Debug\netcoreapp3.1\IChoosrAPI.Data.deps.json
+C:\Users\joris\source\repos\IChoosrAPI.Data\bin\Debug\netcoreapp3.1\IChoosrAPI.Data.dll
+C:\Users\joris\source\repos\IChoosrAPI.Data\obj\Debug\netcoreapp3.1\IChoosrAPI.Data.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\IChoosrAPI.Data\obj\Debug\netcoreapp3.1\IChoosrAPI.Data.AssemblyInfo.cs
+C:\Users\joris\source\repos\IChoosrAPI.Data\bin\Debug\netcoreapp3.1\IChoosrAPI.Data.pdb
+C:\Users\joris\source\repos\IChoosrAPI.Data\obj\Debug\netcoreapp3.1\IChoosrAPI.Data.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\IChoosrAPI.Data\obj\Debug\netcoreapp3.1\IChoosrAPI.Data.dll
+C:\Users\joris\source\repos\IChoosrAPI.Data\obj\Debug\netcoreapp3.1\IChoosrAPI.Data.pdb
