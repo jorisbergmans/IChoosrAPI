@@ -19,7 +19,7 @@ namespace Logic.Services.Implementations
 
         public void ShowCamerasByName(string name)
         {
-            GetNames(name).ForEach(x => Console.Write("{0}{1}{2}\r\n", x.Camera, x.Latitude, x.Longitude));
+            GetNames(name);
         }
         public List<CameraModel> GetNames(string name)
         {
